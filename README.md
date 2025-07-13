@@ -1,2 +1,2 @@
 # Financial-Sentiment-Analysis-with-LSTM
-A deep learning pipeline for financial sentiment analysis using LSTM networks. The project preprocesses financial news headlines, transforms them into word embeddings, and trains an LSTM model to classify sentiment as positive, negative, or neutral—enabling automated sentiment scoring for financial text data.
+A deep learning pipeline for financial sentiment analysis using LSTM networks. The project preprocesses financial news headlines, transforms them into word embeddings, and trains an LSTM model to classify sentiment as positive, negative, or neutral—enabling automated sentiment scoring for financial text data. Uses the Financial PhraseBank dataset from Kaggle.
